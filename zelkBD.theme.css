@@ -51,7 +51,7 @@
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
-  --accent-color: #22c5fd;
+  --accent-color: #800101;
   --background-1: #ffffff;
   --background-2: #f5f7fa;
   --background-accent: var(--background-2);
